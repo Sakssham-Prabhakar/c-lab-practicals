@@ -1,1 +1,1 @@
-# c-lab-practicals
+# C_lab_practicals
